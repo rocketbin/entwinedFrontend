@@ -1,3 +1,5 @@
-# Quasar App
+# Frontend
 
-> WIP
+> run npm i
+> quasar dev
+
