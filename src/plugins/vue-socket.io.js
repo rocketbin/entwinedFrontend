@@ -4,6 +4,6 @@ import VueSocketIO from 'vue-socket.io'
 export default ({ app, router, Vue }) => {
   Vue.use(new VueSocketIO({
       debug: true,
-      connection: 'http://192.168.254.250:3000',
+      connection: 'https://murmuring-basin-49204.herokuapp.com',
   }));
 }
