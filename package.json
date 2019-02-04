@@ -7,11 +7,12 @@
   "author": "rocketbin <buzzokkin@gmail.com>",
   "private": true,
   "scripts": {
-    "start": "quasar --exec 'quasar dev' ",
+    "start": "node server.js",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "express": "^4.16.4",
     "vue-socket.io": "^3.0.5"
   },
   "devDependencies": {
