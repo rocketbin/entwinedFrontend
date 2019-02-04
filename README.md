@@ -1,5 +1,5 @@
 # Frontend
 
-> run npm i
-> quasar dev
+>>> run npm i
+>>> quasar dev
 
